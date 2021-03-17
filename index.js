@@ -15,7 +15,7 @@ const axios = require('axios');
 //SUMSHOP
 //SUMMENU
 
-//งานส่งพิมพ์
+//งานส่งพิมพ์กหดห
 //ethernat.php∏
 
 //งานติดต่อฐานข้อมูล mongodb
