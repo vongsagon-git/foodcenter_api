@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const axios = require('axios');
 
+//dsfsdfsd
 
 //งานเติมคืน
 //INIT_CARD_TOP_UP
@@ -18,7 +19,7 @@ const axios = require('axios');
 //งานส่งพิมพ์
 //ethernat.php∏
 
-//งานติดต่อฐานข้อมูล
+//งานติดต่อฐานข้อมูล mongodb
 //Create record + add Card id + Push Cash + Option status (noreturn)
 //Unlink Return + remove Card id  + Push Pay (ถ้า status เป็น noreturn คืนไม่ได้ ทำได้แค่เติม)
 //Push Cash 
